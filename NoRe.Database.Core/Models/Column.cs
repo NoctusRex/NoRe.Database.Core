@@ -1,5 +1,8 @@
 ﻿namespace NoRe.Database.Core.Models
 {
+    /// <summary>
+    /// One column of a row
+    /// </summary>
     public class Column
     {
         /// <summary>

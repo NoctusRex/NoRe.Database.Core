@@ -3,6 +3,9 @@ using System.Linq;
 
 namespace NoRe.Database.Core.Models
 {
+    /// <summary>
+    /// One row of the Table class
+    /// </summary>
     public class Row
     {
         /// <summary>
